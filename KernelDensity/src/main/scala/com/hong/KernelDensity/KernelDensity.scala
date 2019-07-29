@@ -51,7 +51,7 @@ class KernelDensity extends Serializable {
   /**
     * Sets the sample to use for density estimation (for Java users).
     */
-  def setSample(sample: JavaRDD[java.lang.Object]): this.type = {
+  def setSample(sample: JavaRDD[Array[Double]]): this.type = {
     this.sample = sample.rdd.asInstanceOf[RDD[Array[Double]]]
     this
   }
