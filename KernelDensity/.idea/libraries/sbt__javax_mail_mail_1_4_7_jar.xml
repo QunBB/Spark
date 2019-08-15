@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: javax.mail:mail:1.4.7:jar">
+    <CLASSES>
+      <root url="jar://E:/sbt/.ivy2/cache/javax.mail/mail/jars/mail-1.4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/sbt/.ivy2/cache/javax.mail/mail/srcs/mail-1.4.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

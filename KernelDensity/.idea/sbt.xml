@@ -3,13 +3,19 @@
   <component name="ScalaSbtSettings">
     <option name="customLauncherEnabled" value="true" />
     <option name="customLauncherPath" value="E:\sbt\bin\sbt-launch.jar" />
-<<<<<<< HEAD
-    <option name="customVMEnabled" value="true" />
-    <option name="customVMPath" value="C:/Program Files/Java/jdk1.8.0_211" />
-    <option name="vmParameters" value="-Xmx512M -XX:MaxPermSize=256m -XX:ReservedCodeCacheSize=128m -Dsbt.log.format=true -Dsbt.override.build.repos=true -Dsbt.ivy.home=D:\Hadoop\IDEA\Sbt_repository -Dsbt.global.base=E:\sbt\.sbt -Dsbt.repository.config=E:\sbt\conf\repo.properties" />
-=======
     <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.2.8" />
+      </SbtProjectSettings>
+    </option>
     <option name="vmParameters" value="-Xmx512M -XX:MaxPermSize=256m -XX:ReservedCodeCacheSize=128m -Dsbt.log.format=true -Dsbt.override.build.repos=true -Dsbt.ivy.home=E:\sbt\.ivy2 -Dsbt.global.base=E:\sbt\.sbt -Dsbt.repository.config=E:\sbt\conf\repo.properties" />
->>>>>>> origin/master
   </component>
 </project>

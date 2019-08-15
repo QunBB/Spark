@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.jamesmurty.utils:java-xmlbuilder:1.0:jar">
+    <CLASSES>
+      <root url="jar://E:/sbt/.ivy2/cache/com.jamesmurty.utils/java-xmlbuilder/jars/java-xmlbuilder-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/sbt/.ivy2/cache/com.jamesmurty.utils/java-xmlbuilder/srcs/java-xmlbuilder-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
